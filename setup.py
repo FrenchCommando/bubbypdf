@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="log_ip",
+    name="bubbypdf",
     version="0.0.1",
     author="FrenchCommando",
     author_email="martialren@gmail.com",

@@ -1,0 +1,3 @@
+pdfrw==0.4
+setuptools  # for install cli
+twine  # for deployment in pipy
