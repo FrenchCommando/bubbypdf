@@ -8,7 +8,7 @@ https://github.com/FrenchCommando/bubbypdf
 
 ### using pip
 - pip install bubbypdf
-  - run in cmd (merges files from folder into `merged.pdf`): bubbypdf
+  - run in cmd (merges files from folder into `merged.pdf`): bubby-pdf
   
 ## Contribution
 Anything is always welcome
