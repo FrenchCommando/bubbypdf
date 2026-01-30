@@ -15,3 +15,18 @@ Anything is always welcome
 
 
 [Github](https://github.com/FrenchCommando/bubbypdf)
+
+
+# More on setup
+
+on bare Windows with `python` installed but not in PATH
+
+```cmd
+C:\Users\Martial\AppData\Local\Python\bin\python -m pip install bubbypdf
+```
+
+then warming about script folder not in PATH
+
+`C:\Users\Martial\AppData\Local\Python\pythoncore-3.14-64\Scripts`
+
+add it manually to PATH as prescribed (unless you have a custom set of scripts for this use)
